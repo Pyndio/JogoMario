@@ -12,10 +12,16 @@ Aplicar trabalho em equipe, atendendo aos padrões do desenvolvimento web.
 - JavaScript
 - Git & GitHub
 
-## Instruções para Instalação
-1. Clone o repositório em sua máquina:
-   ```bash
-   git clone https://github.com/Pyndio/JogoMario.git
+## 🚀 Como Executar o Projeto
+
+Este é um projeto em andamento. Para testá-lo localmente, siga os passos abaixo:
+
+1. Clique no botão verde **Code** no topo da página do repositório no GitHub.
+2. Selecione **Download ZIP** e descompacte o arquivo baixado utilizando um programa de sua preferência (como WinRAR, 7-Zip ou o descompactador nativo do sistema).
+3. Vá até a pasta `frontend/`.
+4. Dê um duplo clique no arquivo `index.html` para abrir o jogo diretamente no seu navegador.
+
+divirta-se por enquanto
    
 ## 👥 Integrantes
 
