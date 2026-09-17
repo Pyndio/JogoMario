@@ -4,7 +4,7 @@ const pipe = document.querySelector('.pipe');
 const jump = function() { 
     if (mario.classList.contains('jump')) {
         return;
-    }
+    } 
     mario.classList.add('jump');
     
     setTimeout(function() {
