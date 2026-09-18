@@ -5,12 +5,16 @@ const fim = document.querySelector('.fim');
 const jump = function () {
 
     if (mario.classList.contains('jump')) {
-        return; 
-    }
 
         mario.classList.add('jump');
 
         setTimeout (function () {
+
+        return;
+    } 
+    mario.classList.add('jump');
+    
+    setTimeout(function() {
 
         mario.classList.remove('jump');
         }, 500);   

@@ -29,6 +29,6 @@ divirta-se por enquanto
 | :--- | :--- | :--- |
 | Pedro Pereira | 01927476 | Scrum Master |
 | Virginia Ratis | 01927477 | Desenvolvedor |
-| Rayana Brasil | 01889319 | Testador |
-
-
+| Rayana Brasil | 01889319 | Desenvolvedor |
+| Hicaro Rodrigues | 01750542 | Testador |
+| Luis souza | 01894598 | Testador |
