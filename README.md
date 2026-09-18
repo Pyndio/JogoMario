@@ -32,3 +32,5 @@ divirta-se por enquanto
 | Rayana Brasil | 01889319 | Desenvolvedor |
 | Hicaro Rodrigues | 01750542 | Testador |
 | Luis souza | 01894598 | Testador |
+| Daniel Fraga | 01938613 | Documentador |
+
