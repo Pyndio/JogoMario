@@ -8,8 +8,6 @@ const jump = function () {
 
         mario.classList.add('jump');
 
-        setTimeout (function () {
-
         return;
     } 
     mario.classList.add('jump');
